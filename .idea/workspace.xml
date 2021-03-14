@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f8101b2-3bbc-4029-9053-1261bb56dd5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jEaLgHtxozxR5SEByZdA1vWMpr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607738573156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607738573156" />
+    <state width="1215" height="288" key="GridCell.Tab.0.bottom" timestamp="1615729824557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1215" height="288" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615729824557" />
+    <state width="1215" height="288" key="GridCell.Tab.0.center" timestamp="1615729824557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1215" height="288" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615729824557" />
+    <state width="1215" height="288" key="GridCell.Tab.0.left" timestamp="1615729824556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1215" height="288" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615729824556" />
+    <state width="1215" height="288" key="GridCell.Tab.0.right" timestamp="1615729824557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1215" height="288" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615729824557" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1607525873876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607525873876" />
+    <state x="627" y="289" width="314" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1607529929054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="627" y="289" width="314" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1607529929054" />
+  </component>
+</project>
